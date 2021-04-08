@@ -1,0 +1,15 @@
+C:\Users\Administrateur\source\repos\Clean\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
+C:\Users\Administrateur\source\repos\Clean\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\Administrateur\source\repos\Clean\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\Administrateur\source\repos\Clean\Persistence\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Administrateur\source\repos\Clean\Persistence\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Administrateur\source\repos\Clean\Persistence\obj\Debug\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\Clean\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+C:\Users\Administrateur\source\repos\Clean\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+C:\Users\Administrateur\source\repos\Clean\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\Clean\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
+C:\Users\Administrateur\source\repos\Clean\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\Administrateur\source\repos\Clean\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\Administrateur\source\repos\Clean\Persistence\bin\Debug\netcoreapp3.1\Persistence.runtimeconfig.json
+C:\Users\Administrateur\source\repos\Clean\Persistence\bin\Debug\netcoreapp3.1\Persistence.runtimeconfig.dev.json
+C:\Users\Administrateur\source\repos\Clean\Persistence\obj\Debug\netcoreapp3.1\Persistence.genruntimeconfig.cache
