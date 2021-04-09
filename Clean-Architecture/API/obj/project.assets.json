@@ -6441,11 +6441,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrateur\\source\\repos\\Clean\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Administrateur\\Desktop\\osa\\ASP.NET-CORE-WEB-API-JWT-AUTH\\Clean-Architecture\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Administrateur\\source\\repos\\Clean\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Administrateur\\Desktop\\osa\\ASP.NET-CORE-WEB-API-JWT-AUTH\\Clean-Architecture\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrateur\\source\\repos\\Clean\\API\\obj\\",
+      "outputPath": "C:\\Users\\Administrateur\\Desktop\\osa\\ASP.NET-CORE-WEB-API-JWT-AUTH\\Clean-Architecture\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6466,8 +6466,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Administrateur\\source\\repos\\Clean\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\Administrateur\\source\\repos\\Clean\\Persistence\\Persistence.csproj"
+            "C:\\Users\\Administrateur\\Desktop\\osa\\ASP.NET-CORE-WEB-API-JWT-AUTH\\Clean-Architecture\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\Administrateur\\Desktop\\osa\\ASP.NET-CORE-WEB-API-JWT-AUTH\\Clean-Architecture\\Persistence\\Persistence.csproj"
             }
           }
         }

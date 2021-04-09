@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrateur\\source\\repos\\Clean\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Administrateur\\Desktop\\osa\\ASP.NET-CORE-WEB-API-JWT-AUTH\\Clean-Architecture\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Administrateur\\source\\repos\\Clean\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\Administrateur\\Desktop\\osa\\ASP.NET-CORE-WEB-API-JWT-AUTH\\Clean-Architecture\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrateur\\source\\repos\\Clean\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\Administrateur\\Desktop\\osa\\ASP.NET-CORE-WEB-API-JWT-AUTH\\Clean-Architecture\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

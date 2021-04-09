@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BeH+O5+kbb9p3qA9WOWfVmm2QYwPLo9yaBLUQQdMGVZ8BhAfGGn7SY8OKjIOOqY0K+6nyeMqDI5MLfHok2Ra+w==",
+  "dgSpecHash": "2dtgYvXBFshQh38/NMauq8W4kADuwXpjAQWmB3AQxAVVIVigvdePQAWao5OmllWmYk0ll1AuV/f3LCBETYp/nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrateur\\source\\repos\\Clean\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Administrateur\\Desktop\\osa\\ASP.NET-CORE-WEB-API-JWT-AUTH\\Clean-Architecture\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

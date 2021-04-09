@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rPKNthLe/U50aGZe1MyKEX4pbpuaDgAii0/WpBU5GKFrrCzm2Rc8oB8RBG6QKE9taoO9cgdnJLHwt2Al8Of5sw==",
+  "dgSpecHash": "JocULFWfP//XQVyLrOZSq/I63qXeYvF8SjVNEASMo68BaGdPEtEuiJbgI7iiFYWCLYQN6KTarhqhMhBT/xm7tA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrateur\\source\\repos\\Clean\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Administrateur\\Desktop\\osa\\ASP.NET-CORE-WEB-API-JWT-AUTH\\Clean-Architecture\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrateur\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Administrateur\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

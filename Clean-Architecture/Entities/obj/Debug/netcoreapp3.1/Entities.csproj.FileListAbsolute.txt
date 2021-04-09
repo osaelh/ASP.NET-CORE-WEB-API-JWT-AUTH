@@ -7,3 +7,12 @@ C:\Users\Administrateur\source\repos\Clean\Entities\obj\Debug\netcoreapp3.1\Enti
 C:\Users\Administrateur\source\repos\Clean\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
 C:\Users\Administrateur\source\repos\Clean\Entities\obj\Debug\netcoreapp3.1\Entities.dll
 C:\Users\Administrateur\source\repos\Clean\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Administrateur\Desktop\osa\ASP.NET-CORE-WEB-API-JWT-AUTH\Clean-Architecture\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\Administrateur\Desktop\osa\ASP.NET-CORE-WEB-API-JWT-AUTH\Clean-Architecture\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Administrateur\Desktop\osa\ASP.NET-CORE-WEB-API-JWT-AUTH\Clean-Architecture\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Administrateur\Desktop\osa\ASP.NET-CORE-WEB-API-JWT-AUTH\Clean-Architecture\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\Administrateur\Desktop\osa\ASP.NET-CORE-WEB-API-JWT-AUTH\Clean-Architecture\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\osa\ASP.NET-CORE-WEB-API-JWT-AUTH\Clean-Architecture\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\osa\ASP.NET-CORE-WEB-API-JWT-AUTH\Clean-Architecture\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\osa\ASP.NET-CORE-WEB-API-JWT-AUTH\Clean-Architecture\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Administrateur\Desktop\osa\ASP.NET-CORE-WEB-API-JWT-AUTH\Clean-Architecture\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
