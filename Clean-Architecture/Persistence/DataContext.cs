@@ -21,6 +21,11 @@ namespace Persistence
 
             modelBuilder.ApplyConfiguration(new RoleConfig());
         }
+
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Image> Images { get; set; }
+        public DbSet<Client> Clients { get; set; }
+        public DbSet<Command> Commands { get; set; }
         public DbSet<Product> Products { get; set; }
     }
 }
